@@ -1,1 +1,81 @@
 Fri Jul 6 10:37:48 HST 2018
+Positive perspective:
+-positive psych is a field of psycchological research and theory focusing on the study of positive emotions and psychological states
+-optimal functioning
+-happiness, optimism, resilience, wisdom
+
+Pay attention for next week: parts of neuron, how neurons transmit, parts of eye, parts of ear, senses
+brain games natgeo youtube - https://www.youtube.com/playlist?list=PLCv6T8QWRwjnY5Rso_WZ_NMXJOopnPXLw
+
+positive psych is the child of human mystic psychology. idea is to look at resiliency of people, how they maintain happiness, maintain moving forward 
+in uplifting and positive manner, and how we can bounce back if we have challenges in ouir life.
+
+Martin Seligman spent his life work at the university of Penn
+
+Goals of psychology:
+to
+-describe
+-explain
+-predict (much interest in behavour predicting)
+-control (as in control the experiment, not mind control)
+behaviour and mental processes.
+
+many active shooters take their own life
+
+Scientific method
+-observe some phenomenon
+-predict
+
+theory
+-tenative explanation for observed findings
+-results from accumulation of findings of individual studies
+-tool for explaining observed behavior
+-reflects self correcting nature of scientific method
+
+research strategies
+-descriptive strategies for observing and describing behavior, naturalistic observation, surveys and interviews, case studies, correlational methods
+-experimental strategies for inferring cause and effect relationships among variables
+-http://youtu.be/5EY-CspUW_I
+
+definitions
+-hypothesis - testable prediction that derives logically from a theory
+
+naturalistic observvation
+-researchers directly observe and record behavior raatherthan relying on subject descriptions. in naturalistic observation researcher records behavior 
+as it occurs naturally
+
+survey methods and interviews:
+-designed to investigate opinions, behaviours, or characteristics of a particular group. usually in self report form.
+
+correlationnal study
+-collects a set of facts organized into two or more categories
+-measure  parents disciplinary style, childrens behaviour
+-examine the relationships between categories
+-correlation reveals relationships among facts, eg more democratic parents have children who behave better
+
+samples and sampling
+-population - large (potentially infinite) group represented by the sample.n findings are generalized to this group
+-sample - selected segment of the population
+-representative sample - closely parallels the population on relevant characteristics
+-random sample - every member of larger group has equal change of being selected for the study sample.
+
+cant survey the whole world, instead take a piece of the world in this experiment. 
+
+coefficient of correlation
+-numerical indication of magnitude and direction between the relationship of two variables
+-positive correlation
+- two variables vary systematically in the same direction
+-negative correlation
+- two variables vary systematically in opposite directions
+
+experiments
+-direct way to test a hypothesis about a cause-effect relationship between factors
+- factors are called variables
+- one vari8able is controlled by the experimenter-independent variable
+-e.g. democratic vs authoritarian classroom
+- the other is observed and measured- dependant variable, e.g. cooperative behavior among students.
+
+experimental variables:
+-iv is controlled
+-dv is measured, hypothesized to be influenced by iv
+Fri Jul 6 11:50:24 HST 2018
