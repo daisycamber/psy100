@@ -77,8 +77,21 @@ SSRNIs N=norepenephrine
 
 How neurons communicate
 -by mneans of electrical signal called the action potential
--action potentials are based on movements of ions between neurons with negative and positive potential charge,  usually positie charge on outside and 
+-action potentials are based on movements of ions between neurons with negative and positive potential charge, usually positie charge on outside and 
 negative charge on the inside, and ions start to flow.
-Mon Jul 9 11:34:32 HST 2018
-Mon Jul 9 11:34:39 HST 2018
-Mon Jul 9 11:35:50 HST 2018
+
+during the action potential the electrical charge across the membrane changes dramatically. for the action potential to take place the charge has to 
+be right.
+
+neurotransmitter release
+- action potential causes ventricles to open up and neurotransmitter to be released
+-fits like a lock and key
+
+neurotrannsmitters carry information across the synaptic gap to next neuron
+-acetylcholine, muscle actions, learning, memory
+
+over 10-15 years during alzheimers the person will progressivley lose their abilities, the body succumbs to the brains inability to instruct the 
+organs to function, and takes away the ability of the brain to know who the person is.
+
+oftentimes longtime memories of people with alzheimers, the longterm memories stay intact
+Mon Jul 9 11:47:54 HST 2018
