@@ -46,3 +46,6 @@ parts of a neuron:
 axons connect to dendrites, sending chemical signals
 Mon Jul 9 11:01:04 HST 2018
 Mon Jul 9 11:01:13 HST 2018
+Mon Jul 9 11:02:38 HST 2018
+Mon Jul 9 11:03:26 HST 2018
+Mon Jul 9 11:03:27 HST 2018
