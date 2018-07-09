@@ -80,3 +80,5 @@ How neurons communicate
 -action potentials are based on movements of ions between neurons with negative and positive potential charge,  usually positie charge on outside and 
 negative charge on the inside, and ions start to flow.
 Mon Jul 9 11:34:32 HST 2018
+Mon Jul 9 11:34:39 HST 2018
+Mon Jul 9 11:35:50 HST 2018
