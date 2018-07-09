@@ -11,6 +11,38 @@ left/right hemispherer
 
 brain imaging
 - x ray
-- mostly using FMRI (functional magnetic resonance imaging
-Mon Jul 9 10:41:32 HST 2018
-Mon Jul 9 10:41:48 HST 2018
+- ct scan
+- mostly using MRI/FMRI (functional magnetic resonance imaging
+- pet scan, blood flow and electrical activity happening in brain
+
+neuroscientists want to see how the brain is working on all levels
+
+enlarged ventricles (where the spinal fluid empties into) means gray matter is shrinking, may account for some behaviours we see in people with 
+schizophrenia
+people can live normal full lives with schizophrenia if they are properly treated, though they often have a higher rate of suicide
+
+- news depicts people in news of shootings as being mentally ill, though schizophrenics are more likely to commit suicide than homocide. between 
+10-15% of schizophrenics commit suicide.
+
+trillions of neurons, though no two touch each other though they activley communicate.
+
+parts of a neuron:
+
+1-cell membrane
+2-dendrite
+3-cell body
+4-axon
+5-myelin sheath
+6-terminal buttons
+
+    \
+--1( 03 )--2
+     |4
+     |
+     ||5
+    //\\\ 6
+
+
+axons connect to dendrites, sending chemical signals
+Mon Jul 9 11:01:04 HST 2018
+Mon Jul 9 11:01:13 HST 2018
