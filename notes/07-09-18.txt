@@ -44,12 +44,39 @@ parts of a neuron:
 
 
 axons connect to dendrites, sending chemical signals
-Mon Jul 9 11:01:04 HST 2018
-Mon Jul 9 11:01:13 HST 2018
-Mon Jul 9 11:02:38 HST 2018
-Mon Jul 9 11:03:26 HST 2018
-Mon Jul 9 11:03:27 HST 2018
-Mon Jul 9 11:04:45 HST 2018
-Mon Jul 9 11:04:47 HST 2018
-Mon Jul 9 11:05:38 HST 2018
-Mon Jul 9 11:05:40 HST 2018
+
+impulse travels through mylein sheath
+
+Neuron and its Parts
+
+neuron - individual nerve cell handles the information processing function
+-dendrites receive messages from other neurons
+-soma is the cell body of the neuron
+-axon is the fibre that carries information away from the cell body
+-axon terminals are branches that link the dendrites and somas of other neuron myekub fatty layer of tissue that cooats axons
+-multiple sclerosis occurs when myelin layer is destroyed, numbness weakness and paralysis occur
+
+neuron is individual nerve cell, deendrites receive messages from other neurons
+
+mylein sheath
+-white fatty casing on axon
+-acts as an electrical insulator
+- not present in all cells
+
+neuron to neuron communication
+-axons brtanch out and end near dendrites of neighgbor cells
+-axon terminals are the tips of axons branches
+-a gap seperates the axon terminals from dendrites
+-gap is the synapse
+neuron works on all or none principal
+
+the synapse is the space between the terminal of one neuron and the dendrite of another neuron
+
+SSRIs are Selective Seretonin Reuptake Inhibitor
+SSRNIs N=norepenephrine
+
+How neurons communicate
+-by mneans of electrical signal called the action potential
+-action potentials are based on movements of ions between neurons with negative and positive potential charge,  usually positie charge on outside and 
+negative charge on the inside, and ions start to flow.
+Mon Jul 9 11:34:32 HST 2018
