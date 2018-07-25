@@ -99,6 +99,13 @@ primary reinforcers
 secondary reinforcers
 -become satisfying through experience
 -repeated associating with a pre-existing reinforcer
-Wed Jul 25 11:39:24 HST 2018
-Wed Jul 25 11:39:32 HST 2018
-Wed Jul 25 11:39:56 HST 2018
+
+fixed ratio schedule (FR) a set of number of correct responses must be made to obtain a reinforcer
+variable ratio schedule (VR) varied number of correct responses must be made to get reinforcer
+fixed interval schedule (FI) isthe first correct repsponse made after a certain amount of time has elapsed is reinforced, produces moderate response 
+rates
+variable interval schedule (VI) reinforcement isgiven the first correct response made after a varied amount of time.
+
+interval schedule is based on time
+
+Wed Jul 25 11:49:50 HST 2018
