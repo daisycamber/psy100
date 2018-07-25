@@ -75,8 +75,34 @@ classic and operant conditioning
 neutral stimulus doesnt elicit a response but will eventually because of classical conditioning, an association
 NS	
 	
-	UCS	UCR
-cs		CR
+NS+	UCS	UCR
+CS		CR
 
+nerural stimulus = ringing bell, unconditional stimulus is food
+rang the bell while giving the dogs food to encourage them to salivate (the unconditional response)
 
-Wed Jul 25 11:00:09 HST 2018
+distinction between condition response is now known as extinction
+when this behaviour returned even after they werent conditioned this was called spontaneous recovery
+stimulus discrimination (being able to differentiate between different stimuli)
+
+through stimulus generalization, little albert came to fear furry thangs, including watson in a santa claus mask
+
+reinforcement increases, punishment decreases behaviour.
+punishment can go really wrong if it is done improperly, should be paired with some reinforcement (some positive reinforcement)
+
+operant conditioning terms
+positive reinforcement - when a response is followed by a reward or other positive event
+negative reinforcmeent - whuen a response is foillowed by the removal of an unpleasant event, eg thebells in fannies car stop when she puts the 
+seatbelt on ) or by an end to discomfort
+punishment is any event that follows a response and decreases the likelihood of it recurring (e.g. a slap)
+
+reinforcement increases behaviour
+
+primary reinforcers
+-innately satisfying
+-nonlearned and natural; satisfies biological needs (e.g., food, water, sex)
+
+secondary reinforcers
+-become satisfying through experience
+-repeated associating with a pre-existing reinforcer
+Wed Jul 25 11:39:24 HST 2018
