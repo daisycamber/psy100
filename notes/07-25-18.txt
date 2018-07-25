@@ -1,2 +1,82 @@
 Wed Jul 25 10:40:00 HST 2018
-Wed Jul 25 10:40:01 HST 2018
+Chapter 5 - Learning
+Parlor, watson, stunner
+behaviouralism
+classical conditioning, parlor cs, cr
+operant conditioning, watson little albert
+skinner, skinner box, reinforcement vs punishment
+schedules of reinforcement
+observational learning bandura
+
+Chapter 4 States of Conciousness
+circadian rhythms
+hippocampus, thalamus, pineal gland, melatonin
+stages of sleep, sleep cycles, brain wave types
+sleep disorders, parasomnias
+hypnosis
+psychoactive drugs category/class/names/effects on cns
+physical dependance, psychological dependance and tolerance.
+
+Chapter 12 Social Psychology
+Definition Social Psychology
+Attributions => types
+cognitive dissonance
+physical attractiveness => myths
+in groups out groups
+groupthink
+conformity
+asch
+obedience
+miligrams study
+definition
+prejiduce
+stereotypes
+threat.
+
+Chapter 6 Memory
+memory model
+capacity and duration of each stage
+sensory=>stm=>ltm=>types of ltm
+why we forget
+-proactive/retroactive interference
+-anterograde retrograde amnesia
+-encoding specificity
+-TOT (tip of tongue phenomenon)
+
+Today we will talk about learning, behaviouralism 
+
+*****SHORT ANSWER FOR EXAM*****
+-stanford prison
+-loftus false memories
+-super autobiographical memories
+-microagression/example
+-fatal famillial insomnia
+
+
+Learning: some key terms
+learning - relativley permanent change in behavior due to experierncee
+-does not include temporary changes due to disease, injury, maturation, or drugs, since these do not quaaliy as learning
+reinforcement is any event that increases the probability that a response will recur.
+reinforcement always increases some type of behaviour.
+
+learning theory
+learning is a systematic, relativley permanent change in behaviour that occurs through experience
+behaviouralism
+associative learning/conditioning
+observational learning
+
+classical conditioning and ivan pavlov
+russian physiologist who initially was studying digestion
+used togs to study salivation when dogs were presented with meat powder
+also known a s pavlovian or respondent conditioning
+classic and operant conditioning
+
+
+neutral stimulus doesnt elicit a response but will eventually because of classical conditioning, an association
+NS	
+	
+	UCS	UCR
+cs		CR
+
+
+Wed Jul 25 11:00:09 HST 2018
